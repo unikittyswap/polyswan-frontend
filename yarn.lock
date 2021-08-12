@@ -1931,9 +1931,9 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@PolySwanFinance/polyswan-uikit":
+"@pancakeswap-libs/uikit@acravenho/polyswan-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/PolySwanFinance/polyswan-uikit/tar.gz/25f235cf6a520ad3bdbb7b3760ff7b652a0a2040"
+  resolved "https://codeload.github.com/acravenho/polyswan-uikit/tar.gz/25f235cf6a520ad3bdbb7b3760ff7b652a0a2040"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
